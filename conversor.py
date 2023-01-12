@@ -2,7 +2,7 @@
 
 def menu () :
     print ("1. Dolar")
-    print("2. Dolar canadienses")
+    print("2. Dolar canadiense")
     print("3. Euro")
     print("4. Libra esterlina")
     print("5. Bitcoin")
